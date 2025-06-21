@@ -1,10 +1,10 @@
 import React from 'react';
-import MatrixBackground from '@/components/MatrixBackground';
-import HeroSection from '@/components/sections/HeroSection';
-import AboutSection from '@/components/sections/AboutSection';
-import AnaSection from '@/components/sections/AnaSection';
-import GallerySection from '@/components/sections/GallerySection';
-import ContactSection from '@/components/sections/ContactSection';
+import MatrixBackground from '../components/MatrixBackground';
+import HeroSection from '../components/sections/HeroSection';
+import AboutSection from '../components/sections/AboutSection';
+import AnaSection from '../components/sections/AnaSection';
+import GallerySection from '../components/sections/GallerySection';
+import ContactSection from '../components/sections/ContactSection';
 
 const Index = () => {
   return (
